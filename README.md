@@ -1,10 +1,10 @@
 # Active-Partition-Manager-Freeware-Portable
 
 Active@ Partition Manager membantu Anda mengelola perangkat penyimpanan dan drive logis atau partisi yang diisinya. Anda dapat membuat, menghapus, memformat, dan memberi nama partisi di komputer Anda tanpa mematikan sistem. Sebagian besar perubahan konfigurasi langsung berlaku. Mendukung sistem file paling populer seperti FAT, NTFS, exFAT, ReFS, HFS+, Ext2/Ext3/Ext4, BtrFS, UFS, XFS, JFS.
+Pada project ini aplikasi hanya dibuat secara portable atau langsung dipakai tanpa perlu diinstall terlebih dahulu. komponen dalam aplikasi ini juga masih bawaan instalasi tanpa diubah apapun.
+Apabila memiliki komentar, saran, masukan, maupun kritik yang membangun mengenai project ini atau yang lain bisa disampaikan untuk menjadi bahan pertimbangan mengenai project selanjutnya maupun project ke depannya.
 
-untuk informasi lebih lanjut, bisa kunjungi official website: http://www.pcdisk.com/index.html
-
-Official Website: hhttp://www.pcdisk.com/
+untuk informasi lebih lanjut, bisa kunjungi laman resmi: http://www.pcdisk.com/index.html
 
 # Active@ Partition Manager information x64 details
 - Details       : Partman.exe (x64)
