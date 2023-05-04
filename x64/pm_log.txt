@@ -1,0 +1,108 @@
+
+--------------------------------------------------------------------------  Application Log Started 03 May 2023 01:04:56
+01:04:56          WMI Service requests
+                  COM library initialized
+                  COM library security passed
+                  Service locator initialized
+                  Successfully connected to server
+                  Enumerate logical drives
+                  Successfully executed Logical Disks query
+                  Retrieved data for: C:
+                  Retrieved data for: D:
+                  Retrieved data for: E:
+                  Retrieved data for: F:
+                  Logical drives enumeration completed
+                  Physical Media enumeration completed
+                  IDE Controller enumeration completed
+                  SCSI Controller enumeration completed
+                  Enumerate disk drives
+                  Successfully executed Disk Drives query
+                  Disk info - ID: \\.\PHYSICALDRIVE0, Caption: VMware Virtual SATA Hard Drive, SCSIPort: 4, SCSIBus: 0, SCSITargetId: 0, SCSILogicalUnit: 0
+                  Disk info - ID: \\.\PHYSICALDRIVE1, Caption: VMware Virtual SATA Hard Drive, SCSIPort: 4, SCSIBus: 1, SCSITargetId: 0, SCSILogicalUnit: 0
+                  Disk drives enumeration completed
+                  Reading hardware info
+                  Successfully executed Hardware Info query
+                  Hardware info queries completed
+                  Reading BIOS info
+                  Successfully executed BIOS Info query
+                  BIOS info queries completed
+                  Reading Base Board info
+                  Successfully executed Base Board Info query
+                  Base Board info queries completed
+                  Reading Processor info
+                  Successfully executed Processor Info query
+                  Processor info queries completed
+                  WMI service queries completed
+01:04:58          Operating System: Windows 10 (10.0)
+                    Platform................................64-bit
+                    Kernel Version..........................10.0.19044 (winnt)
+                    Processors..............................2
+                    Processor Type..........................x86_64
+01:04:58     OK   User Rights: Administrator Group
+01:05:00          Session state has been recently changed
+01:05:00          Application starts.
+01:05:00          Default location 'C:\Program Files\LSoft Technologies\Active@ Partition Manager'
+01:05:00          Log file opened 'C:\Program Files\LSoft Technologies\Active@ Partition Manager\pm_log.txt'
+01:05:00          Configuration file opened 'C:\Program Files\LSoft Technologies\Active@ Partition Manager\pm_settings.ini'
+01:05:00          Version: 23.0.0
+01:05:00          Initialization started
+01:05:01          Analyzing disk 'Fixed Disk 0 (\\.\PhysicalDrive0)'... 
+01:05:02          Analyzing disk 'Fixed Disk 1 (\\.\PhysicalDrive1)'... 
+01:05:02          Analyzing disk 'CDRom Disk 0 (\\.\CDRom0)'... 
+01:05:02          Analyzing disk 'CDRom Disk 1 (\\.\CDRom1)'... 
+01:05:03          Initialization completed.
+01:05:37          Application closed at (03/05/2023 01:05:37)
+                  Application run time 41 seconds
+----------------------------------------------------------------------------  Application Log Closed
+--------------------------------------------------------------------------  Application Log Started 03 May 2023 01:05:43
+01:05:44          WMI Service requests
+                  COM library initialized
+                  COM library security passed
+                  Service locator initialized
+                  Successfully connected to server
+                  Enumerate logical drives
+                  Successfully executed Logical Disks query
+                  Retrieved data for: C:
+                  Retrieved data for: D:
+                  Retrieved data for: E:
+                  Retrieved data for: F:
+                  Logical drives enumeration completed
+                  Physical Media enumeration completed
+                  IDE Controller enumeration completed
+                  SCSI Controller enumeration completed
+                  Enumerate disk drives
+                  Successfully executed Disk Drives query
+                  Disk info - ID: \\.\PHYSICALDRIVE0, Caption: VMware Virtual SATA Hard Drive, SCSIPort: 4, SCSIBus: 0, SCSITargetId: 0, SCSILogicalUnit: 0
+                  Disk info - ID: \\.\PHYSICALDRIVE1, Caption: VMware Virtual SATA Hard Drive, SCSIPort: 4, SCSIBus: 1, SCSITargetId: 0, SCSILogicalUnit: 0
+                  Disk drives enumeration completed
+                  Reading hardware info
+                  Successfully executed Hardware Info query
+                  Hardware info queries completed
+                  Reading BIOS info
+                  Successfully executed BIOS Info query
+                  BIOS info queries completed
+                  Reading Base Board info
+                  Successfully executed Base Board Info query
+                  Base Board info queries completed
+                  Reading Processor info
+                  Successfully executed Processor Info query
+                  Processor info queries completed
+                  WMI service queries completed
+01:05:45          Operating System: Windows 10 (10.0)
+                    Platform................................64-bit
+                    Kernel Version..........................10.0.19044 (winnt)
+                    Processors..............................2
+                    Processor Type..........................x86_64
+01:05:45     OK   User Rights: Administrator Group
+01:05:45          Session state has been recently changed
+01:05:45          Application starts.
+01:05:45          Default location 'C:\Program Files\LSoft Technologies\Active@ Partition Manager'
+01:05:45          Log file opened 'C:\Program Files\LSoft Technologies\Active@ Partition Manager\pm_log.txt'
+01:05:45          Configuration file opened 'C:\Program Files\LSoft Technologies\Active@ Partition Manager\pm_settings.ini'
+01:05:45          Version: 23.0.0
+01:05:45          Initialization started
+01:05:46          Analyzing disk 'Fixed Disk 0 (\\.\PhysicalDrive0)'... 
+01:05:46          Analyzing disk 'Fixed Disk 1 (\\.\PhysicalDrive1)'... 
+01:05:46          Analyzing disk 'CDRom Disk 0 (\\.\CDRom0)'... 
+01:05:46          Analyzing disk 'CDRom Disk 1 (\\.\CDRom1)'... 
+01:05:47          Initialization completed.
