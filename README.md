@@ -32,7 +32,7 @@ https://www.virustotal.com/gui/file/f83510a7044becff6e3d691b26a64834749f25577240
 - Virus Analysis: 0/70 (virus total)
 https://www.virustotal.com/gui/file/e2d6e72554086f1ca9578ec1b43bf0950df9dc63ff358842df024df670ecbf34/details
 
-Additional Notes:
+# Additional Notes:
 1. gunakan folder "x64" untuk windows yang 64 bit. atau gunakan "x86" untuk windows yang 32 bit
 2. untuk memakai aplikasi, jalankan "Partman.exe" baik pada folder "x64" maupun folder "x86" sesuai dengan windows yang terinstall
 3. jika ingin memakai edisi lain, anda bisa gunakan serial number yang ada atau dianjurkan untuk membeli lisensi dari official web yang tersedia.
