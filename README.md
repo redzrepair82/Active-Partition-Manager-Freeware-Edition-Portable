@@ -36,3 +36,6 @@ https://www.virustotal.com/gui/file/e2d6e72554086f1ca9578ec1b43bf0950df9dc63ff35
 1. gunakan folder "x64" untuk windows yang 64 bit. atau gunakan "x86" untuk windows yang 32 bit
 2. untuk memakai aplikasi, jalankan "Partman.exe" baik pada folder "x64" maupun folder "x86" sesuai dengan windows yang terinstall
 3. jika ingin memakai edisi lain, anda bisa gunakan serial number yang ada atau dianjurkan untuk membeli lisensi dari official web yang tersedia.
+
+# Screenshot:
+![Virtual_Machine_2-2023-05-04-22-13-46](https://user-images.githubusercontent.com/48012187/236255222-bf92e15f-f188-4877-bf4c-92f85fdda9d4.png)
